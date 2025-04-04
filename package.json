@@ -1,6 +1,6 @@
 {
   "name": "aryan-imgur-upload",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "description": "A simple utility to upload images to Imgur from a URL",
   "main": "index.js",
   "scripts": {
