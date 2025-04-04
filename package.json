@@ -1,0 +1,20 @@
+{
+  "name": "aryan-imgur-upload",
+  "version": "0.0.3",
+  "description": "A simple utility to upload images to Imgur from a URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imgur",
+    "upload",
+    "image",
+    "url"
+  ],
+  "author": "ArYAN",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.0.0"
+  }
+}
